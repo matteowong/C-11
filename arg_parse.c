@@ -48,7 +48,7 @@ void free_arg_list(char ** s) {
     i++;
   }
   free(s);
-  printf("all freed\n");
+  //printf("all freed\n");
 
 
 }
